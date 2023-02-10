@@ -15,3 +15,4 @@ liEls.forEach((liEl) => {
         menuEl.classList.toggle("rotate");
     });
 });
+
